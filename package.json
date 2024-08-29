@@ -1,6 +1,6 @@
 {
   "name": "animatedsnackbar",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "a custom snacbar that is animated",
   "main": "index.js",
   "scripts": {
